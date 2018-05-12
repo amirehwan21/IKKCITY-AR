@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "i-KKCity 3.0", "i-KKCity 3.0.csproj", "{000CBA9B-3F8E-0891-E25E-39C575302974}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "i-KKCity 3.0.Editor", "i-KKCity 3.0.Editor.csproj", "{39917472-968B-899F-EBCD-C804DD4985F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{000CBA9B-3F8E-0891-E25E-39C575302974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000CBA9B-3F8E-0891-E25E-39C575302974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000CBA9B-3F8E-0891-E25E-39C575302974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000CBA9B-3F8E-0891-E25E-39C575302974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39917472-968B-899F-EBCD-C804DD4985F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39917472-968B-899F-EBCD-C804DD4985F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39917472-968B-899F-EBCD-C804DD4985F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39917472-968B-899F-EBCD-C804DD4985F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

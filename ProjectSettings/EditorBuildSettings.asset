@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Splatch.unity
+    guid: 24ee9de04aca0d044b5b56193630bd96
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Beautiful KK Religous.unity
+    guid: 8792fb76ea194894bb302e9420f76650
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Beautiful KK Historical.unity
+    guid: d3e503e2cb03dc04c83c9a98fa9a3538
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Beautiful KK Shopping Mall.unity
+    guid: 3f1eeaf824eaead4eae6ba62e70e2407
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Beautiful KK Other.unity
+    guid: dc4520f43c99a9b4cb3bdbeb61a40c60
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Ums.unity
+    guid: 99d54c8974fd4c7429d4a13b2ac2c37a
+  - enabled: 1
+    path: Assets/Scene/AR/Loc_MasjidLikas.unity
+    guid: 222569f015ab7694fa9334dec942846a
+  - enabled: 1
+    path: Assets/Scene/AR/Loc_MasjidUMS.unity
+    guid: 15fb0b62f58a54047b6b4c197ef08ad7
+  - enabled: 1
+    path: Assets/Scene/AR/Loc_ClockTower.unity
+    guid: fe5e299b5b6e1e74cac42dbe5cedbb53
+  - enabled: 1
+    path: Assets/Scene/AR/Loc_FKI.unity
+    guid: 67200576986ca7443ad30eec6b91c624
+  - enabled: 1
+    path: Assets/Scene/AR/Loc_KSA.unity
+    guid: 3761cdb5aa066f84d83fe8649d6571e7
+  - enabled: 1
+    path: Assets/Scene/AR/Loc_SignalHill.unity
+    guid: 3310a7537d203064e999224785980fcb
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Double Six.unity
+    guid: e78858d14ed78f648a34f7e3a1c29dc1
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Double Six Images.unity
+    guid: d699f4ff14540b04a9e9dd73baa636af
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Double Six Map.unity
+    guid: fe5c4026bf6eee94eacad508c578003f
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Atkinson Clock.unity
+    guid: 6c5935f81c8b193468c4db720fc7c84d
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Atkinson Clock Images.unity
+    guid: a94cf38a10f7e1f4ab2d47fb1cfe38f2
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Atkinson Clock Map.unity
+    guid: b05cdd87f4c91d943b9bf4fc2a34e226
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Sabah Museum.unity
+    guid: cfc620ba056fb834988f195ffaa5f643
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Sabah Museum Images.unity
+    guid: 217cd821aee1e9b4893c9176e9bf7701
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Sabah Museum Map.unity
+    guid: d3768af36a6217443a9dd108672d682a
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Suria Sabah.unity
+    guid: ed9598fc45b42e942a1633475e604b17
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Suria Sabah Shop.unity
+    guid: 94a66a5021caf7e4fa32083780d93351
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Suria Sabah Map.unity
+    guid: cc996c6c187b6b045999c37b98e31a59
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Signal Hill.unity
+    guid: dee427740c509e545bc69cb12aa837fa
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Signal Hill Images.unity
+    guid: fb3600dbb5da14b43ba7ea37ed9aa4b6
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Signal Hill Map.unity
+    guid: 5117ea22a890a4a4bb0194b31d55f4d4
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Ums Images.unity
+    guid: b6c914fa0dad71549bf6be7ef0525524
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Ums Map.unity
+    guid: ff1d64cb378066e4f98c0c5349954833
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Fook Tet Temple.unity
+    guid: 6434273fee8d3cb46b4fe19f5c057362
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Fook Tet Temple Image.unity
+    guid: 3f9ac297001aad846bd79ba6809a096c
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Fook Tet Temple Map.unity
+    guid: a7b28a392a5f51d4e8866e10c5914aab
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Sabah State Mosque.unity
+    guid: cfbc3742d9401a84f9f574e972f57fac
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Sabah State Mosque Image.unity
+    guid: b965b7c482cdde847ae89c9f068c9e7a
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/Sabah State Mosque Map.unity
+    guid: 1c4f646e33913d2429e967a8258228a7
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/St michael.unity
+    guid: 31c4428514e39064e805173cfb09c2bb
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/St michael image.unity
+    guid: 7a13ce4d77125c04bb688a1d2831c4bf
+  - enabled: 1
+    path: Assets/Scene/Beautiful KK/St michael map.unity
+    guid: 51099534af4f7f949a12528e273ad6dc
